@@ -1,0 +1,134 @@
+ros-humble-omni-base-maps (2.0.7-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 09 Apr 2024 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.6-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 05 Mar 2024 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.5-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Mon, 04 Mar 2024 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.4-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 27 Feb 2024 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.3-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'feat/register-components' into 'humble-devel'
+    using components and parameters
+    See merge request robots/omni_base_navigation!16
+  * using components and parameters
+  * Contributors: antoniobrandi
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Thu, 01 Feb 2024 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.2-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 13 Dec 2023 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.1-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 10 Dec 2023 16:00:00 -0000
+
+ros-humble-omni-base-maps (2.0.0-1bullseye) bullseye; urgency=high
+
+  * omni_base ROS 2
+  * omnibase maps to ROS2:
+    + colcon
+    - building
+  * Contributors: YueErro, andreacapodacqua
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 22 Nov 2023 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.11-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'add_pal_office_7th_floor_map' into 'ferrum-devel'
+    Add new pal office map
+    See merge request robots/omni_base_navigation!9
+  * Add new pal office map
+  * Contributors: antoniobrandi, thomaspeyrucain
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 05 Mar 2023 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.10-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Thu, 26 Jan 2023 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.9-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Mon, 15 Aug 2022 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.8-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'update_rviz' into 'ferrum-devel'
+    Add advanced navigation file + fix nav rviz + change poi
+    See merge request robots/omni_base_navigation!3
+  * Add advanced navigation file + fix nav rviz + change poi
+  * Contributors: antoniobrandi, thomaspeyrucain
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 07 Aug 2022 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.7-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 03 Aug 2022 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.6-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 12 Jul 2022 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.5-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Mon, 25 Oct 2021 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.4-1bullseye) bullseye; urgency=high
+
+  * Updates to omni_base_maps in order to generate the folder in the .pal
+  * Contributors: antoniobrandi
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Tue, 05 Oct 2021 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.3-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Sun, 03 Oct 2021 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.2-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 29 Sep 2021 16:00:00 -0000
+
+ros-humble-omni-base-maps (0.0.1-1bullseye) bullseye; urgency=high
+
+  * preparing release
+  * Omni base navigation initial commit
+  * Contributors: antoniobrandi
+
+ -- Yue Erro <yue.erro@pal-robotics.com>  Wed, 29 Sep 2021 16:00:00 -0000
+
+

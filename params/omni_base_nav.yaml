@@ -16,19 +16,18 @@ nodes:
     params: [navigate_w_replanning_and_recovery]
   controller_server:
     app: controller_server
-    params: [rpp_shim, local_costmap]
+    params: [dwb_w_progress_checker_and_goal_checker, local_costmap_w_filters]
   planner_server:
     app: planner_server
-    params: [smac_2D, global_costmap]
+    params: [smac_2D, global_costmap_w_filters]
   behavior_server:
     app: behavior_server
     params: [spin_backup_wait]
   waypoint_follower:
     app: waypoint_follower
     params: [wait_at_waypoint]
-  pal_bt_navigator:
-    app: pal_bt_navigator
-    params: [navigate_through_waypoints]
   lifecycle_manager_navigation:
     app: lifecycle_manager
-    params: [lifecycle_manager_navigation]
+    params: [default]
+    variables:
+      node_names: ["bt_navigator", "controller_server", "planner_server", "behavior_server", "waypoint_follower"]

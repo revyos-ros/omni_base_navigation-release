@@ -2,6 +2,111 @@
 Changelog for package omni_base_2dnav
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.0 (2024-08-22)
+------------------
+* added docking link to variables
+* Contributors: antoniobrandi
+
+2.2.1 (2024-08-06)
+------------------
+* fix public sim
+* Contributors: antoniobrandi
+
+2.2.0 (2024-08-06)
+------------------
+* Unify quotation marks
+* Unify quotation marks
+* restructure launch file
+* Contributors: Aina, antoniobrandi
+
+2.1.1 (2024-07-19)
+------------------
+* fix laser frames
+* Contributors: andreacapodacqua
+
+2.1.0 (2024-07-17)
+------------------
+* reorganized remappings file
+* naming convention
+* added device_number_laser
+* using remappings for rgbd and laser pipeline
+* Contributors: andreacapodacqua
+
+2.0.19 (2024-07-09)
+-------------------
+* Add warning for pal_module_cmake not found
+* Contributors: Noel Jimenez
+
+2.0.18 (2024-07-01)
+-------------------
+* using costmap with filters
+* Contributors: antoniobrandi
+
+2.0.17 (2024-06-25)
+-------------------
+* move rviz in nav launch file
+* Contributors: antoniobrandi
+
+2.0.16 (2024-06-17)
+-------------------
+* Fix pal_maps path
+* Contributors: andreacapodacqua
+
+2.0.15 (2024-06-03)
+-------------------
+* Update omni_base_2dnav/params/omni_base_nav.yaml, omni_base_2dnav/params/omni_base_nav_w_composition.yaml
+* Contributors: antoniobrandi
+
+2.0.14 (2024-06-03)
+-------------------
+
+2.0.13 (2024-05-29)
+-------------------
+* fix public sim
+* Contributors: andreacapodacqua
+
+2.0.12 (2024-04-29)
+-------------------
+* deprecate omni_base_maps
+* Contributors: antoniobrandi
+
+2.0.11 (2024-04-26)
+-------------------
+* Merge branch 'abr/fix/new-launch-pal' into 'humble-devel'
+  Adapt to the new launch_pal
+  See merge request robots/omni_base_navigation!27
+* Update omni_base_remappings.yaml
+* Adapt to the new launch_pal
+* Contributors: antoniobrandi
+
+2.0.10 (2024-04-23)
+-------------------
+* Merge branch 'feat/move-modules-to-00' into 'humble-devel'
+  moved modules to 00
+  See merge request robots/omni_base_navigation!25
+* moved modules to 00
+* Contributors: andreacapodacqua
+
+2.0.9 (2024-04-23)
+------------------
+* Merge branch 'fix/variables' into 'humble-devel'
+  Fix/variables
+  See merge request robots/omni_base_navigation!23
+* removed unused params for sim
+* using variables lifecycle manager
+* fix variables, laser angles
+* Contributors: andreacapodacqua
+
+2.0.8 (2024-04-17)
+------------------
+* Merge branch 'fix/laser-params' into 'humble-devel'
+  fix laser params name
+  See merge request robots/omni_base_navigation!22
+* added dep
+* new variables names
+* using variables for pipelines
+* Contributors: andreacapodacqua
+
 2.0.7 (2024-04-10)
 ------------------
 * Merge branch 'feat/ros2-params' into 'humble-devel'

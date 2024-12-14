@@ -1,5 +1,4 @@
 rgbd:
-  launch: "pal_nav2_bringup nav_bringup.launch.py 
-          params_pkg:=omni_base_rgbd_sensors
-          params_file:=rgbd_pipeline.yaml
+  launch: "pal_navigation_cfg_utils pipeline_executor.launch.py
+          pipeline:=rgbd_@camera_model@
           robot_name:=@robot_type@"

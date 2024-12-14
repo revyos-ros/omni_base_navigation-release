@@ -2,6 +2,30 @@
 Changelog for package omni_base_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.7.0 (2024-12-02)
+------------------
+* nav deps and specifics
+* Contributors: antoniobrandi
+
+2.6.1 (2024-11-21)
+------------------
+
+2.6.0 (2024-11-14)
+------------------
+* register modules
+* add multi-robot support
+* restore laser modules
+* moved camera-related variables to rgbd packag
+* remove dependency from pal_nav2_bringup
+* register nav variables and pipelines
+* Contributors: antoniobrandi
+
+2.5.0 (2024-10-23)
+------------------
+
+2.4.0 (2024-10-16)
+------------------
+
 2.3.0 (2024-08-22)
 ------------------
 

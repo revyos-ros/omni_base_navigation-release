@@ -1,0 +1,161 @@
+ros-humble-omni-base-rgbd-sensors (2.18.0-1bookworm) bookworm; urgency=high
+
+  * renamed launch file
+  * update name of add-on-module
+  * single camera integration
+  * Contributors: andreacapodacqua
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 10 Jun 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.17.0-1bookworm) bookworm; urgency=high
+
+  * support namespace
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 03 Jun 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.16.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 14 May 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.15.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 07 May 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.14.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 07 May 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.13.0-1bookworm) bookworm; urgency=high
+
+  * pal_configuration adoption
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 03 Apr 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.12.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Mon, 10 Feb 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.12.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 04 Feb 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.11.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 30 Jan 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.10.0-1bookworm) bookworm; urgency=high
+
+  * support camera_model and add_on_module
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 23 Jan 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.9.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 21 Jan 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.8.0-1bookworm) bookworm; urgency=high
+
+  * support single camera
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Fri, 17 Jan 2025 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.7.0-1bookworm) bookworm; urgency=high
+
+  * nav deps and specifics
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Mon, 02 Dec 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.6.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 21 Nov 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.6.0-1bookworm) bookworm; urgency=high
+
+  * register modules
+  * add multi-robot support
+  * restore laser modules
+  * moved camera-related variables to rgbd packag
+  * remove dependency from pal_nav2_bringup
+  * register nav variables and pipelines
+  * Contributors: antoniobrandi
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 14 Nov 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.5.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 23 Oct 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.4.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 16 Oct 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Thu, 22 Aug 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.2.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 06 Aug 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 06 Aug 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.1.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Fri, 19 Jul 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.1.0-1bookworm) bookworm; urgency=high
+
+  * fix version
+  * added pal_module_cmake log
+  * using remappings for rgbd and laser pipeline
+  * configuration for rgbd pipeline
+  * renamed params
+  * removed config folder
+  * improved rgb configuration for aruco detection
+  * added rgbd support
+  * Contributors: andreacapodacqua
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Wed, 17 Jul 2024 00:00:00 -0000
+
+ros-humble-omni-base-rgbd-sensors (2.0.19-1bookworm) bookworm; urgency=high
+
+
+
+ -- Andrea Capodacqua <andrea.capodacqua@pal-robotics.com>  Tue, 09 Jul 2024 00:00:00 -0000
+
+

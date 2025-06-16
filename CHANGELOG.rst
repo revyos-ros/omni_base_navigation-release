@@ -2,6 +2,54 @@
 Changelog for package omni_base_rgbd_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.18.0 (2025-06-10)
+-------------------
+* renamed launch file
+* update name of add-on-module
+* single camera integration
+* Contributors: andreacapodacqua
+
+2.17.0 (2025-06-03)
+-------------------
+* support namespace
+* Contributors: antoniobrandi
+
+2.16.0 (2025-05-14)
+-------------------
+
+2.15.0 (2025-05-07)
+-------------------
+
+2.14.0 (2025-05-07)
+-------------------
+
+2.13.0 (2025-04-03)
+-------------------
+* pal_configuration adoption
+* Contributors: antoniobrandi
+
+2.12.1 (2025-02-10)
+-------------------
+
+2.12.0 (2025-02-04)
+-------------------
+
+2.11.0 (2025-01-30)
+-------------------
+
+2.10.0 (2025-01-23)
+-------------------
+* support camera_model and add_on_module
+* Contributors: antoniobrandi
+
+2.9.0 (2025-01-21)
+------------------
+
+2.8.0 (2025-01-17)
+------------------
+* support single camera
+* Contributors: antoniobrandi
+
 2.7.0 (2024-12-02)
 ------------------
 * nav deps and specifics
